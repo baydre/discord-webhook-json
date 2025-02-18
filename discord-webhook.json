@@ -8,7 +8,7 @@
         "app_name": "telex-discord",
         "app_description": "Routes Telex messages to a Discord channel using Discord webhooks",
         "app_logo": "https://drive.google.com/file/d/1u5jvOQjqi3Mg3eBr1KDcoDYTDZPXy_qq/view?usp=sharing",
-        "app_url": "https://4826-197-210-52-201.ngrok-free.app/telex_webhook",
+        "app_url": "https://telex-discord-integration.onrender.com/telex_webhook",
         "background_color": "#fff"
       },
       "is_active": false,
