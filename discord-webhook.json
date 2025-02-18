@@ -14,7 +14,9 @@
       "is_active": false,
       "integration_type": "output",
       "key_features": [
-        "coming-soon"
+        "No need for scheduled tasks",
+        "Simple message forwarding",
+        "Uses Telex Webhooks → Discord Webhooks (basic API calls)"
       ],
       "integration_category": "Email & Messaging",
       "author": "Baydre",
