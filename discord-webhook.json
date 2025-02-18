@@ -12,10 +12,11 @@
         "background_color": "#fff"
       },
       "is_active": true,
-      "integration_type": "modifier",
+      "integration_type": "output",
       "key_features": [
         "coming-soon"
       ],
+      "integration_category": "Email & Messaging",
       "author": "Baydre",
       "settings": [
         {
