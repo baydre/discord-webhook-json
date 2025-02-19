@@ -2,23 +2,23 @@
     "data": {
       "date": {
         "created_at": "2025-02-18",
-        "updated_at": "2025-02-18"
+        "updated_at": "2025-02-19"
       },
       "descriptions": {
         "app_name": "telex-discord",
         "app_description": "Routes Telex messages to a Discord channel using Discord webhooks",
-        "app_logo": "https://drive.google.com/file/d/1u5jvOQjqi3Mg3eBr1KDcoDYTDZPXy_qq/view?usp=sharing",
+        "app_logo": "./img/coming-soon.png",
         "app_url": "https://telex-discord-integration.onrender.com/telex_webhook",
         "background_color": "#fff"
       },
-      "is_active": false,
+      "is_active": true,
       "integration_type": "output",
       "key_features": [
         "No need for scheduled tasks",
         "Simple message forwarding",
         "Uses Telex Webhooks → Discord Webhooks (basic API calls)"
       ],
-      "integration_category": "Email & Messaging",
+      "integration_category": "Communication & Collaboration",
       "author": "Baydre",
       "settings": [
         {
