@@ -27,6 +27,18 @@
                 {"label": "Alert Level", "type": "dropdown", "required": true, "default": "Normal", "options": ["High", "Normal", "Low"]},
                 {"label": "Notify Roles", "type": "multi-checkbox", "required": false, "default": "Admin", "options": ["Admin", "Moderator", "User"]}
             ],
+      "entry_point": {
+      "method": "POST",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "payload": {
+        "text": "{{message_text}}"
+      },
+    },
+    "output": {
+      "text": "📢 *New Message from Telex:*\n👤 *Sender:* {{username}}\n💬 *Message:* {{message_text}}"
+    },      
       "target_url": "https://telex-discord-integration.onrender.com/telex-webhook",
       "tick_url": "null"
     }
