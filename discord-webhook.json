@@ -21,7 +21,7 @@
       "integration_category": "Communication & Collaboration",
       "author": "Baydre",
       "settings": [
-                {"label": "Webhook URL", "type": "string", "required": true, "default": ""},
+                {"label": "Webhook URL", "type": "text", "required": true, "default": ""},
                 {"label": "Enable Logging", "type": "checkbox", "required": false, "default": "Yes"},
                 {"label": "Retry Attempts", "type": "number", "required": true, "default": "3"},
                 {"label": "Alert Level", "type": "dropdown", "required": true, "default": "Normal", "options": ["High", "Normal", "Low"]},
