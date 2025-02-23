@@ -5,7 +5,7 @@
         "updated_at": "2025-02-19"
       },
       "descriptions": {
-        "app_name": "telex-discord",
+        "app_name": "telex-discord-test",
         "app_description": "Routes Telex messages to a Discord channel using Discord webhooks",
         "app_logo": "https://baydre.github.io/discord-webhook-json/img/coming-soon.png",
         "app_url": "https://github.com/baydre/telex_discord_integration/",
