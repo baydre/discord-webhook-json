@@ -27,7 +27,7 @@
                 {"label": "Alert Level", "type": "dropdown", "required": true, "default": "Normal", "options": ["High", "Normal", "Low"]},
                 {"label": "Notify Roles", "type": "multi-checkbox", "required": false, "default": "Admin", "options": ["Admin", "Moderator", "User"]}
             ],
-      "target_url": "https://telex-discord-integration.onrender.com/telex-webhook",
+      "target_url": "https://2400-102-91-77-28.ngrok-free.app/telex-webhook",
       "tick_url": "null",
       "endpoints": [
     {
