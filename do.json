@@ -8,7 +8,7 @@
         "app_name": "Telex-discord",
         "app_description": "Routes Telex messages to a Discord channel using Discord webhooks",
         "app_logo": "https://baydre.github.io/discord-webhook-json/img/coming-soon.png",
-        "app_url": "https://github.com/baydre/telex_discord_integration/",
+        "app_url": "https://jellyfish-app-rd8wx.ondigitalocean.app",
         "background_color": "#fff"
       },
       "is_active": true,
