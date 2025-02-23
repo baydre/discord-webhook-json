@@ -5,7 +5,7 @@
         "updated_at": "2025-02-19"
       },
       "descriptions": {
-        "app_name": "DO-telex-discord",
+        "app_name": "Telex-discord",
         "app_description": "Routes Telex messages to a Discord channel using Discord webhooks",
         "app_logo": "https://baydre.github.io/discord-webhook-json/img/coming-soon.png",
         "app_url": "https://github.com/baydre/telex_discord_integration/",
@@ -28,7 +28,7 @@
                 {"label": "Notify Roles", "type": "multi-checkbox", "required": false, "default": "Admin", "options": ["Admin", "Moderator", "User"]}
             ],
       "target_url": "https://jellyfish-app-rd8wx.ondigitalocean.app/telex-webhook",
-      "tick_url": "null",
+      "tick_url": "None",
       "endpoints": [
     {
       "function": "forward_to_discord",
