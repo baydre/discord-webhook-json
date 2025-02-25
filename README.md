@@ -10,28 +10,6 @@ The integration routes Telex messages to a specified Discord channel by making u
 
 The configuration for this integration is defined in the `discord-webhook.json` file. Below is a breakdown of the fields in the JSON file:
 
-Collecting workspace information
-
-# Telex-Discord Integration Configuration
-
-This document provides a detailed description of the configuration for integrating Telex messages with a Discord channel using Discord webhooks, as defined in the 
-
-do.json
-
- file.
-
-## Overview
-
-The integration routes Telex messages to a specified Discord channel by making use of Discord webhooks. This allows for simple and efficient message forwarding without the need for scheduled tasks.
-
-## Configuration
-
-The configuration for this integration is defined in the 
-
-do.json
-
- file. Below is a breakdown of the fields in the JSON file:
-
 - **data**: Contains the main configuration data.
   - **date**: Contains the creation and update dates.
     - **created_at**: The date when the configuration was created.
